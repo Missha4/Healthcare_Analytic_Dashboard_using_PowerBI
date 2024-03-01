@@ -47,7 +47,3 @@ Accessing the Dashboard
 
 Open the Patient Visit Dashboard file in your Power BI Desktop.
 Dive into the visualizations and gain valuable insights into patient visits!
-
-Contributions and Feedback
-
-As part of my ongoing commitment to excellence, I welcome contributions and feedback. Feel free to open issues or create pull requests to enhance this patient visit analytical project.
